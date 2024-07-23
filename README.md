@@ -1,5 +1,7 @@
 # GPT Chat Search
 
+https://www.youtube.com/watch?v=hgirofQlR_Q
+
 Making our own web search-enabled chatbot, like Bing!
 
 ## How to run
